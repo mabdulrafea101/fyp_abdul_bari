@@ -42,7 +42,7 @@ class AppData {
     ),
     Furniture(
       isFavorite: false,
-      quantity: 1,
+      quantity: 21,
       title: 'Best wooden Desk new in TOWN',
       description: dummyText,
       price: 299.99,
@@ -60,7 +60,7 @@ class AppData {
       ],
     ),
     Furniture(
-      quantity: 1,
+      quantity: 18,
       isFavorite: false,
       title: 'Kana Pro Bamboo Standing Desk',
       description: dummyText,
@@ -80,7 +80,7 @@ class AppData {
       ],
     ),
     Furniture(
-      quantity: 1,
+      quantity: 10,
       isFavorite: false,
       title: 'Soutien Ergonomic Office Chair',
       description: dummyText,
